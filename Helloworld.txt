@@ -1,1 +1,2 @@
 Hello world. I'm a newbie
+This text is edited from Github.
